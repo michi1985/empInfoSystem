@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+.head{
+	display: flex;
+	align-items: center;
+	color:White;
+	background-image: url("../img/header.jpg");
+	background-attachment:fixed;
+	height: 198px;
+}
+.container{
+	padding-bottom: 50px;
+}
